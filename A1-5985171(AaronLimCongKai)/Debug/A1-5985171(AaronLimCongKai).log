@@ -1,0 +1,4 @@
+﻿  A1-5985171(AaronLimCongKai).cpp
+c:\users\aaron\desktop\a1-5985171(aaronlimcongkai)\a1-5985171(aaronlimcongkai)\a1-5985171(aaronlimcongkai).cpp(157): warning C4244: '=': conversion from 'cl::detail::param_traits<cl::detail::cl_device_info,4131>::param_type' to 'long', possible loss of data
+c:\users\aaron\desktop\a1-5985171(aaronlimcongkai)\a1-5985171(aaronlimcongkai)\a1-5985171(aaronlimcongkai).cpp(265): warning C4018: '<=': signed/unsigned mismatch
+  A1-5985171(AaronLimCongKai).vcxproj -> C:\Users\aaron\Desktop\A1-5985171(AaronLimCongKai)\Debug\A1-5985171(AaronLimCongKai).exe
